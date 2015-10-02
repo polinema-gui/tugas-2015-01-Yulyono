@@ -1,0 +1,11 @@
+c:\users\yulyono adi nugraha\documents\visual studio 2013\Projects\Tugas 1\Tugas 1\bin\Debug\Tugas 1.exe.config
+c:\users\yulyono adi nugraha\documents\visual studio 2013\Projects\Tugas 1\Tugas 1\bin\Debug\Tugas 1.exe
+c:\users\yulyono adi nugraha\documents\visual studio 2013\Projects\Tugas 1\Tugas 1\bin\Debug\Tugas 1.pdb
+c:\users\yulyono adi nugraha\documents\visual studio 2013\Projects\Tugas 1\Tugas 1\bin\Debug\Tugas 1.xml
+c:\users\yulyono adi nugraha\documents\visual studio 2013\Projects\Tugas 1\Tugas 1\obj\Debug\Tugas_1.Resources.resources
+c:\users\yulyono adi nugraha\documents\visual studio 2013\Projects\Tugas 1\Tugas 1\obj\Debug\Tugas 1.vbproj.GenerateResource.Cache
+c:\users\yulyono adi nugraha\documents\visual studio 2013\Projects\Tugas 1\Tugas 1\obj\Debug\Tugas 1.exe
+c:\users\yulyono adi nugraha\documents\visual studio 2013\Projects\Tugas 1\Tugas 1\obj\Debug\Tugas 1.xml
+c:\users\yulyono adi nugraha\documents\visual studio 2013\Projects\Tugas 1\Tugas 1\obj\Debug\Tugas 1.pdb
+C:\Users\Yulyono Adi Nugraha\documents\visual studio 2013\Projects\Tugas 1\Tugas 1\obj\Debug\Tugas 1.vbprojResolveAssemblyReference.cache
+C:\Users\Yulyono Adi Nugraha\documents\visual studio 2013\Projects\Tugas 1\Tugas 1\obj\Debug\Tugas_1.tugasyul.resources
